@@ -16,4 +16,4 @@ If you don't have nvm installed I suggest that you install it because it is by f
 * Now `npm start` will start the web server on `port 8080`  
 
 ## Starting Point  
-Simple Web server interacting with simple API server that uses volatile storage. Data will be stored in an array on the API server. Hi here is a change!
+Simple Web server interacting with simple API server that uses volatile storage. Data will be stored in an array on the API server. Another change.
